@@ -8,9 +8,7 @@ I am an Intermediate Python Developer interested in Machine Learning and Robotic
 
 <br>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" height="100">
-</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100" height="100">
 
 <br>
 
