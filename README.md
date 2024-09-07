@@ -5,3 +5,5 @@ I am an Intermediate Python Developer interested in Machine Learning and Robotic
 + ✨ Learning Python
 + Interests in Gaming 🎮
 + Machine-Learning 🧠
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
