@@ -7,15 +7,4 @@ I am an Intermediate Python Developer interested in Machine Learning and Robotic
 + Machine-Learning 🧠
 
 
-
-
-
-
-
-
-
-
-
-
-
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
