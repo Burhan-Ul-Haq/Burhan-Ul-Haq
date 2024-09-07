@@ -1,1 +1,1 @@
-<h1 align="center">Bold Heading</h1>
+<h1 align="center">Burhan Ul Haq</h1>
