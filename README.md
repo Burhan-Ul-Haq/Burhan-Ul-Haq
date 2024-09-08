@@ -18,14 +18,15 @@ Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Lea
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-    </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Ul-Haq&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
