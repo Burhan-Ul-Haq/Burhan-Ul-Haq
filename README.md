@@ -1,7 +1,8 @@
 <h1 align="center">Burhan Ul Haq 👋</h1>
 
 # 💫 About Me:
-Working on Projects<br>Learning Python<br>Interested in Gaming, Machine-Learning and Robotics
+I am an Intermediate Developer, Interested in Robotics and gaining Knowledge on things that spark my curiosity.
+Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Learning 🧠 and Robotics🤖
 
 
 ## 🌐 Socials:
