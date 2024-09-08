@@ -25,8 +25,6 @@ Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Lea
 </table>
 
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Ul-Haq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Dev Quote
