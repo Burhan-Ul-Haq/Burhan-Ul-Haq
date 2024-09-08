@@ -12,19 +12,21 @@ Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Lea
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     </td>
     <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=Burhan-Ul-Haq&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Ul-Haq&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
 
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>  ![](https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Ul-Haq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Burhan-Ul-Haq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan-Ul-Haq&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Dev Quote
