@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I am an Intermediate Developer, Interested in Robotics and gaining Knowledge on things that spark my curiosity.
+
 Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Learning 🧠 and Robotics🤖
 
 
