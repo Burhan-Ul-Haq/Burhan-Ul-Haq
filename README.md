@@ -7,13 +7,7 @@ Working on Projects<br>Learning Python<br>Interested in Gaming 🎮, Machine-Lea
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhan-ul-haqq) <p align="center">
-  <a href="mailto:burhanrgrg8@gmail.com" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail Logo" width="20" height="20">
-    <span style="margin-left: 5px;">burhanrgrg8@gmail.com</span>
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burhan-ul-haqq) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:burhanrgrg8@gmail.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
